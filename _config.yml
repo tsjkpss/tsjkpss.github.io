@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: ТСЖ "Степаньковская слобода"
+email: tsj@kpss.com
+description: >- # this means to ignore newlines until "baseurl:"
+Описание поселка
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://тсжслобода.рф" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: stepa
+github_username:  stepa
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

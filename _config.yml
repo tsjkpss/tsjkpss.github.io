@@ -11,7 +11,7 @@ github_username:  jekyll
 telegram_username:  sloboda
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 #plugins:
 #  - jekyll-feed
 
